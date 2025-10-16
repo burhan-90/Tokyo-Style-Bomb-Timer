@@ -3,7 +3,8 @@
 ![Screenshot](assets/images/Screenshot.png)
 
 
-This was inspired by the original **Bomb Timer** by [Tokyo](https://github.com/livinamuk/BombTimer). I recreated it from scratch using **Python** and **Pygame**, and had a lot of fun learning in the process!
+This was inspired by the original **Bomb Timer** by [Tokyo](https://github.com/livinamuk/BombTimer). I had
+a lot of fun making it and learned a lot in the process.
 
 **Usage**
 
