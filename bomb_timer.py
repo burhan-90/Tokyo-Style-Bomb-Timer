@@ -76,6 +76,8 @@ explosion_start_time = None
 explosion_frame_index = 0
 explosionInterval = 60
 
+clock = pygame.time.Clock()
+
 # main loop
 is_running = True
 while is_running:
@@ -163,8 +165,10 @@ while is_running:
         time_text, time_text_pos = timer_text(timer_text_font, timer_text_color, initialMinutes,
                                             initialSeconds, screen_width, screen_height)
         screen.blit(time_text, time_text_pos)
-    
+
     pygame.display.flip()
+    clock.tick(60)
+    
 pygame.quit()
 
 
