@@ -1,10 +1,9 @@
+# **BOMB TIMER**
+
 ![Screenshot](assets/images/Screenshot.png)
 
----
 
 This was inspired by the original **Bomb Timer** by [Tokyo](https://github.com/livinamuk/BombTimer). I recreated it from scratch using **Python** and **Pygame**, and had a lot of fun learning in the process!
-
----
 
 ## Usage
 
