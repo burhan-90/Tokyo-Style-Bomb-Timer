@@ -11,5 +11,5 @@ This was inspired by the original **Bomb Timer** by [Tokyo](https://github.com/l
 You can modify the timer settings in the `bomb_timer.py` file:
 
 ```python
-minutes = 0
-seconds = 60
+set_minutes = 2
+set_seconds = 60
